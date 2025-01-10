@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Mamelon";
+    src: url(./fonts/Mamelon.otf);
+}
+
+*{
+    font-family: "Mamelon",微軟正黑體;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(77, 72, 72);
+}
+header{
+    text-align: center;
+    padding: 30px;
+}
+section{
+    text-align: center;
+}
+#number{
+    padding: 30px;
+    font-size: 35px;
+    color:rgb(41, 38, 38);
+    text-align: center;
+}
+button{
+    padding: 20px 30px;
+    margin-top: 20px;
+    color: rgb(41, 38, 38);
+    font-size: 24px;
+}
+.tip {
+    padding: 50px 0;
+    font-size: 24px;
+    color: aliceblue;
+}
